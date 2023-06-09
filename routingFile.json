@@ -1,0 +1,7 @@
+[
+  {
+    "path": "/a",
+    "headerVars": {},
+    "forwardingUri": "http://localhost:8090"
+  }
+]
